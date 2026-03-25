@@ -1,0 +1,23 @@
+# Data Processing and Linear Algebra
+numpy
+pandas
+
+# Word Embeddings (Problem 1)
+gensim
+scikit-learn
+
+# Deep Learning (Problem 2)
+torch
+torchvision
+torchaudio
+
+# Visualization
+matplotlib
+seaborn
+
+# Scraping and Utilities (Problem 1)
+beautifulsoup4
+requests
+pymupdf
+nltk
+tqdm
