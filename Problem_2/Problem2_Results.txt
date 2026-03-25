@@ -1,0 +1,24 @@
+============================================================
+FINAL EVALUATION REPORT FOR ABHINAB (TASKS 1, 2 & 3)
+============================================================
+
+VANILLA RNN
+  Trainable Params: 241,565
+  Model Size (MB):  0.92 MB
+  Novelty Rate:     0.0%
+  Diversity Rate:   74.0%
+  Sample Names:     Anushka, Arundhati, Pragyata, Sushant, Jayant
+
+BLSTM
+  Trainable Params: 2,386,077
+  Model Size (MB):  9.10 MB
+  Novelty Rate:     100.0%
+  Diversity Rate:   97.0%
+  Sample Names:     Jigugom, Leebbbulijmomo, Jijumoq, Gomuj, Gojnugups
+
+RNN ATTENTION
+  Trainable Params: 315,037
+  Model Size (MB):  1.20 MB
+  Novelty Rate:     98.0%
+  Diversity Rate:   14.0%
+  Sample Names:     Vivviv, Vivvi, Vivvi, Teeeet, Vivvav
