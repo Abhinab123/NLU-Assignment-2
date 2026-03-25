@@ -54,3 +54,27 @@ A deep learning project focused on character-level sequence modeling to generate
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/Abhinab123/NLU-Assignment-2.git](https://github.com/Abhinab123/NLU-Assignment-2.git)
+
+2. Install Dependencies
+Bash
+pip install -r requirements.txt
+3. Run Problem 1 Visualization
+Bash
+python Problem_1/scripts/visualize_results.py
+4. Run Problem 2 Generation
+Bash
+python Problem_2/train_and_generate.py
+📄 Final Artifacts
+NumPy Weights: Problem_1/models/001_embeddings_ep20.npy
+
+Vocab Map: Problem_1/data/001_vocab_mapping.pkl
+
+Generated Names: Problem_2/Problem2_Results.txt
+
+
+---
+
+### **Quick Check**
+Once you paste this and click **Commit changes**, GitHub will automatically turn this text into a clean webpage. 
+
+**Would you like me to show you how to add the "t-SNE Cluster" image directly into this README so it pops up as soon as someone opens the page?**
