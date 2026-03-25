@@ -74,7 +74,3 @@ Generated Names: Problem_2/Problem2_Results.txt
 
 ---
 
-### **Quick Check**
-Once you paste this and click **Commit changes**, GitHub will automatically turn this text into a clean webpage. 
-
-**Would you like me to show you how to add the "t-SNE Cluster" image directly into this README so it pops up as soon as someone opens the page?**
